@@ -1,3 +1,5 @@
+# inetmonit.sh
+
 #!/bin/bash
 
 # Set target host IP or hostname

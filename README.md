@@ -12,7 +12,7 @@ for run every 5min:
 
 for run every 30 min:
 */30 * * * * /path_to/inetmonit.sh
-
 ...
 
 
+Dont forget configure log rotation for /var/log/inetmonit.log
